@@ -11,7 +11,7 @@
 🛠 Technology stack.
 💻 Power BI | Java | SQL | Microsoft Excel | Python
 
-🌐 HTML | CSS | JavaScript | Bootstrap | Bootstrap
+🌐 HTML | CSS | JavaScript | Bootstrap |
 
 🛠 On my learning list.
 📊 Advanced data analysis R
